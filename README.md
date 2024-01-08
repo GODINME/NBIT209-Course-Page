@@ -54,4 +54,17 @@
  - [3](https://algorithm-visualizer.org/)
  - [4](https://ez2rok.github.io/recursion-visualizer/)
 
+## Problem Solving Challenges
+- [Meta Hacker Cup](https://web.facebook.com/codingcompetitions)
+- [Google Coding Competitions problems](https://github.com/google/coding-competitions-archive)
+- [leetcode](https://leetcode.com/)
 
+## Term Projects, Assignments and Quizs 
+- Project: Building a Compiler or Interpreter with C++ (designing and implementing your own programming languague)
+- Quiz: Weekly Oral Interview Assesment (Coding Interview and techical questions and answering)
+- Assignment: Problem Solving and Reading
+  
+
+## Contributing to C++ Open Source Projects 
+- [Google Summer of Code](https://summerofcode.withgoogle.com/)
+  
