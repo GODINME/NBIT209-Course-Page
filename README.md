@@ -3,7 +3,7 @@
 - This is an applied course building upon the knowledge gain from programming fundamentals or principles cource in level 100 to improve your problem solving skills and appreciate how programming language like C++ are use as a tool to solve real problems in the real world.
 - The fun fact is most of the every day software systems or embedded systems from social media application, smart phones to home appliances and automobiles are in way or another running C++ code in them
 - Example is your favourite [Telegram Messaging App is written entirely in C++](https://github.com/telegramdesktop/tdesktop)
-Course Website Still Under Construction
+- Course Website Still Under Construction
 
 ## More C++ Resources
 - [Standford](https://web.stanford.edu/class/cs106l/)
