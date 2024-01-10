@@ -89,7 +89,7 @@ Cloud engineering involves building scalable and fault-tolerant cloud systems in
 - Concurrency and high-performance architectures
 - Fault detection 
 - Configuration management
-- ![Cloud Engineering Task]()
+- ![Cloud Engineering Task](cloud.png)
 
 ## Term Projects, Assignments and Quizs 
 - Project: You will be assign a technical research publication paper and your major task would be translating the algorithm into a C++ readable working code 
