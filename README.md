@@ -1,6 +1,9 @@
 # NBIT207-Course-Page
  Programming With C Plus Plus  ---- Year Two First Semester Course
-- Course Page Still Under Construction
+- This is an applied course building upon the knowledge gain from programming fundamentals or principles cource in level 100 to improve your problem solving skills and appreciate how programming language like C++ are use as a tool to solve real problems in the real world.
+- The fun fact is most of the every day software systems or embedded systems from social media application, smart phones to home appliances and automobiles are in way or another running C++ code in them
+- Example is your favourite [Telegram Messaging App is written entirely in C++](https://github.com/telegramdesktop/tdesktop)
+Course Website Still Under Construction
 
 ## More C++ Resources
 - [Standford](https://web.stanford.edu/class/cs106l/)
@@ -59,12 +62,50 @@
 - [Google Coding Competitions problems](https://github.com/google/coding-competitions-archive)
 - [leetcode](https://leetcode.com/)
 
+## Practical Lab
+If time permit us our Applied lab will focus on applying C++ in Systems Programming and Cloud Software Engineering 
+
+### Under Systems Software Programming: we will explore
+- Kernel and system calls: How programs interact with the operating system, how to implement some system calls yourself in assembly
+- File I/O: Learn about file descriptors, direct i/o, memory mapped i/o, page cache etc.
+- Concurrency and synchronization: Learn about different threading primitives, i.e., mutexes, concurrent data structure design, and how they are implemented
+- Processes: Different system calls related to process handling like fork(), execve(), wait()
+- Memory management: How virtual memory, heap, stack, and how malloc() works
+- Networking: How to handle network protocols, efficient ways to implement servers
+- Performance: How to bring out the performance of the hardware
+- Compiler/LLVM: Hom to implement LLVM passes to improve compiler generated codes
+Hoping those who will fall in love with compilers and interpreters will join my lab to explore more on compiler/interpreter design and construction and programming language design and implementation and also Deep Learning Systems
+
+### Under Cloud Software Engineering: we will explore
+Cloud engineering involves building scalable and fault-tolerant cloud systems in a cost-effective manner. How to build cloud systems from the ground up, starting from a single-node deployment up to a fully replicated and distributed transactional system
+- Container: How to build applications using containers
+- Cluster orchestrators: How to deploy jobs
+- Sharding / re-configuration of servers
+- Fault tolerance / replication
+- Consistent hashing
+- Consistency
+- Transactions / data management
+- Distributed locking / synchronization
+- Concurrency and high-performance architectures
+- Fault detection 
+- Configuration management
+- ![Cloud Engineering Task]()
+
 ## Term Projects, Assignments and Quizs 
-- Project: Building a Compiler or Interpreter with C++ (designing and implementing your own programming languague)
+- Project: You will be assign a technical research publication paper and your major task would be translating the algorithm into a C++ readable working code 
 - Quiz: Weekly Oral Interview Assesment (Coding Interview and techical questions and answering)
 - Assignment: Problem Solving and Reading
-  
+
 
 ## Contributing to C++ Open Source Projects 
-- [Google Summer of Code](https://summerofcode.withgoogle.com/)
+- [Google Summer of Code Projects for C++](https://summerofcode.withgoogle.com/)
+- [C++ Open Source Projects on Github](https://github.com/trending/c++?since=daily)
+
+## Applying for Internship
+- [Google](https://careers.google.com/)
+- [Meta formally Facebook](https://metacareers.com/)
+- [Microsoft](https://careers.microsoft.com/)
+- [TikTok](https://careers.tiktok.com/)
+- [Apple](https://www.apple.com/careers/)
+- [And many other companies on LinkedIn](https://linkedin.com/)
   
