@@ -1,9 +1,24 @@
-# NBIT207-Course-Page
- Programming With C Plus Plus  ---- Year Two First Semester Course
-- This is an applied course building upon the knowledge gain from programming fundamentals or principles cource in level 100 to improve your problem solving skills and appreciate how programming language like C++ are use as a tool to solve real problems in the real world.
-- The fun fact is most of the every day software systems or embedded systems from social media application, smart phones to home appliances and automobiles are in way or another running C++ code in them
-- Example is your favourite [Telegram Messaging App is written entirely in C++](https://github.com/telegramdesktop/tdesktop)
-- Course Website Still Under Construction
+# NBIT 209 Data Structures and Algorithm
+
+## Course Description:  
+* This course will cover abstract data types and basics of algorithms, Linked lists, stacks, queues, hash tables, trees, heaps, and graphs. Students will also be taught how to derive big-Oh analysis of basic algorithms. C++ will be our language of choice for implementing our ideas in this class. Below are useful C Plul Plus material for revision if you have forgotten your programming fundamental in year one.
+* We will be making heavy use of Git, Github and Project Management Tools
+
+
+
+## Useful Reference Course Textbook
+* Introduction to Algorithms, Third Edition by Cormen, Leiserson, Rivest and Stein
+* Introduction to Algorithms, Fourth Edition by Cormen, Leiserson, Rivest and Stein
+* Algorithms by Robert Sedgewick, Kevin Wayne 
+* Data Structures and Algorithms in C++ by Adam Drozdek
+* Data Structures & Algorithm Analysis in C++ by Mark Weiss
+* Data Structures and Algorithms in C++ by Michael Goodrich
+
+# Useful Resources on Vim Editor, Git and Basic Linux Commands 
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- [System and Software Tools](https://courses.cs.washington.edu/courses/cse391/23au/)
+- [Pro Git Book, written by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
+
 
 ## More C++ Resources
 - [Standford](https://web.stanford.edu/class/cs106l/)
@@ -63,7 +78,7 @@
 - [leetcode](https://leetcode.com/)
 
 ## Practical Lab
-If time permit us our Applied lab will focus on applying C++ in Systems Programming and Cloud Software Engineering 
+If time permit us our Applied lab will focus on applying Data Structures and Algorithms with C++ in Systems Software Engineering and Cloud Software Engineering 
 
 ### Under Systems Software Programming: we will explore
 - Kernel and system calls: How programs interact with the operating system, how to implement some system calls yourself in assembly
@@ -98,8 +113,8 @@ Cloud engineering involves building scalable and fault-tolerant cloud systems in
 
 
 ## Contributing to C++ Open Source Projects 
-- [Google Summer of Code Projects for C++](https://summerofcode.withgoogle.com/)
-- [C++ Open Source Projects on Github](https://github.com/trending/c++?since=daily)
+- [Google Summer of Code Projects](https://summerofcode.withgoogle.com/)
+- [Open Source Projects on Github](https://github.com/trending/c++?since=daily)
 
 ## Applying for Internship
 - [Google](https://careers.google.com/)
