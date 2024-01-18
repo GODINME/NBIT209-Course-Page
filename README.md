@@ -14,7 +14,14 @@
 * Data Structures & Algorithm Analysis in C++ by Mark Weiss
 * Data Structures and Algorithms in C++ by Michael Goodrich
 
-# Useful Resources on Vim Editor, Git and Basic Linux Commands 
+# Lecture Schedule
+## Week 1
+- [Slide 1 - Introduction](https://docs.google.com/presentation/d/1Jq9W3rQo1EDOFaJM7eFpBJuSlcjGSIBTBxasU1-c9H8/edit?usp=sharing)
+- [Slide 2 - C++ Revision](https://docs.google.com/presentation/d/1njZ8JW-EaFDsLG9hc1K4OvDdawcwQBE9JFo8oXSlp_A/edit?usp=sharing)
+- [Must Watch: Revision videos on C++](https://www.youtube.com/playlist?list=PL0Weiym0lCDKtzBftf356CVKIQB4rTG2J)
+
+
+## Useful Resources on Vim Editor, Git and Basic Linux Commands 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [System and Software Tools](https://courses.cs.washington.edu/courses/cse391/23au/)
 - [Pro Git Book, written by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
