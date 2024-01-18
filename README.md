@@ -30,7 +30,6 @@
 - [Main](https://github.com/federico-busato/Modern-CPP-Programming)
 - [Sun](https://sun.aei.polsl.pl/~rstaros/S/CP_lectures/index.html)
 - [DS Apply - Illinois](https://courses.engr.illinois.edu/cs225/fa2023/pages/lectures.html)
-- [DS Apply KAIST](https://yung-web.github.io/home/courses/datastructure.html)
 - [DS Apply](https://ceng218.cankaya.edu.tr/course.php?page=Lecture%20Notes)
 - [DS Apply](https://www.iitgoa.ac.in/~sreejithav/21Aug/cs220.html)
 - [DS Apply](https://cse.buffalo.edu/~hungngo/classes/2014/Fall/250/index.html)
@@ -54,6 +53,8 @@
 - [C++ Programming 2](https://www.youtube.com/playlist?list=PLsvgJUFgyp7R1BWMAUaI-s15Ice1ZxBQm)
 - [First Year C++ Programming](https://www.youtube.com/playlist?list=PLU4IQLU9e_OqLz5EFCd3GPXR0YUk_gMkg)
 - [Basics](https://www.youtube.com/playlist?list=PLexIiOuQLvd_OP9_H1Tfg_5uAWkjpFgc1)
+- [CS 135 Computer Science 1 (C++ basics)](https://www.youtube.com/playlist?list=PLrosN5xeGOCufFv6DaZ4eR83ZfNDwphE3)
+- [CS 202 Computer Science 2 (Object Oriented Programming](https://www.youtube.com/playlist?list=PLrosN5xeGOCs-rAFHVjk34mGwR_9bKQDI)
 - [CS 302 Data Structures](https://www.youtube.com/playlist?list=PLrosN5xeGOCvpWicvrmKINyEdohov0qfc)
 - [CS302](https://www.youtube.com/playlist?list=PLuCVd59PWc0SgkQhLbVEp3UkJO47u4yKn)
 - [CS477](https://www.youtube.com/playlist?list=PLuCVd59PWc0TQbLqNL6CKtSAJESlZDMAC)
@@ -79,11 +80,6 @@
 - Project: You will be assign a technical research publication paper and your major task would be translating the algorithm into a C++ readable working code 
 - Quiz: Weekly Oral Interview Assesment (Coding Interview and techical questions and answering)
 - Assignment: Problem Solving and Reading
-
-# Assignment 
-### Week1 Assignment:  Kindly watch this videos to refresh your memory on C++
-- [CS 135 Computer Science 1 (C++ basics)](https://www.youtube.com/playlist?list=PLrosN5xeGOCufFv6DaZ4eR83ZfNDwphE3)
-- [CS 202 Computer Science 2 (Object Oriented Programming](https://www.youtube.com/playlist?list=PLrosN5xeGOCs-rAFHVjk34mGwR_9bKQDI)
 
 ## Contributing to C++ Open Source Projects 
 - [Google Summer of Code Projects](https://summerofcode.withgoogle.com/)
