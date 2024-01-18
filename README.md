@@ -77,34 +77,6 @@
 - [Google Coding Competitions problems](https://github.com/google/coding-competitions-archive)
 - [leetcode](https://leetcode.com/)
 
-## Practical Lab
-If time permit us our Applied lab will focus on applying Data Structures and Algorithms with C++ in Systems Software Engineering and Cloud Software Engineering 
-
-### Under Systems Software Programming: we will explore
-- Kernel and system calls: How programs interact with the operating system, how to implement some system calls yourself in assembly
-- File I/O: Learn about file descriptors, direct i/o, memory mapped i/o, page cache etc.
-- Concurrency and synchronization: Learn about different threading primitives, i.e., mutexes, concurrent data structure design, and how they are implemented
-- Processes: Different system calls related to process handling like fork(), execve(), wait()
-- Memory management: How virtual memory, heap, stack, and how malloc() works
-- Networking: How to handle network protocols, efficient ways to implement servers
-- Performance: How to bring out the performance of the hardware
-- Compiler/LLVM: Hom to implement LLVM passes to improve compiler generated codes
-Hoping those who will fall in love with compilers and interpreters will join my lab to explore more on compiler/interpreter design and construction and programming language design and implementation and also Deep Learning Systems
-
-### Under Cloud Software Engineering: we will explore
-Cloud engineering involves building scalable and fault-tolerant cloud systems in a cost-effective manner. How to build cloud systems from the ground up, starting from a single-node deployment up to a fully replicated and distributed transactional system
-- Container: How to build applications using containers
-- Cluster orchestrators: How to deploy jobs
-- Sharding / re-configuration of servers
-- Fault tolerance / replication
-- Consistent hashing
-- Consistency
-- Transactions / data management
-- Distributed locking / synchronization
-- Concurrency and high-performance architectures
-- Fault detection 
-- Configuration management
-- ![Cloud Engineering Task](./cloud.png)
 
 ## Term Projects, Assignments and Quizs 
 - Project: You will be assign a technical research publication paper and your major task would be translating the algorithm into a C++ readable working code 
