@@ -54,7 +54,6 @@
 - [C++ Programming 2](https://www.youtube.com/playlist?list=PLsvgJUFgyp7R1BWMAUaI-s15Ice1ZxBQm)
 - [First Year C++ Programming](https://www.youtube.com/playlist?list=PLU4IQLU9e_OqLz5EFCd3GPXR0YUk_gMkg)
 - [Basics](https://www.youtube.com/playlist?list=PLexIiOuQLvd_OP9_H1Tfg_5uAWkjpFgc1)
-- [CIS 2252 - Object Oriented Programming (C++)](https://www.youtube.com/playlist?list=PLInentMnneYkPQcc4OzhtQpsoX5HZaUAA)
 - [CS 135 Computer Science 1 (C++ basics)](https://www.youtube.com/playlist?list=PLrosN5xeGOCufFv6DaZ4eR83ZfNDwphE3)
 - [CS 202 Computer Science 2 (Object Oriented Programming](https://www.youtube.com/playlist?list=PLrosN5xeGOCs-rAFHVjk34mGwR_9bKQDI)
 - [CS 302 Data Structures](https://www.youtube.com/playlist?list=PLrosN5xeGOCvpWicvrmKINyEdohov0qfc)
